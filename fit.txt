@@ -1,0 +1,115 @@
+	    		{
+	      	"nome": "Fudge de Chocolate",
+	      	"descrição": "Fudge de chocolate com 4 ingredientes. Rende 30 porções.",
+	      	"ingredientes": 
+	      	[ 
+	      		{
+	      			"unidade": "g",
+	      			"numero": 250,
+	      			"nome": "chocolate meio amargo picado"
+	      			
+	      		},
+	      		{
+	      			"unidade": "unidade",
+	      			"numero": 0.5,
+	      			"nome": "lata de leite condensado"
+	      		},
+	      		{
+	      			"unidade": "colher de sobremesa",
+	      			"numero": 1,
+	      			"nome": "manteiga sem sal"
+	      		},
+	      		{
+	      			"unidade": "a gosto",
+	      			"numero": null,
+	      			"nome": "castanha-do-pará picadinha, amendoim triturado "
+	      		}
+	      	  ],
+	      	"preparo": [
+	      		"- Derreta o chocolate em banho-maria ou no micro-ondas e junte o leite condensado e a manteiga. Misture bem e despeje em fôrma retangular (20 x 15 cm) forrada com plástico. ",
+	      		"- Alise a superfície (use um pedaço de plástico para facilitar), salpique a cobertura de sua preferência, pressionando levemente, e leve à geladeira até firmar (cerca de 1 hora). Sirva cortado em quadradinhos."
+              ],
+           
+            ]
+	"imageURL": "https://1344552651.rsc.cdn77.org/prod/imagens/receita/14001/fudge-de-chocolate-11675.jpg"
+	      	
+	      },
+
+          {
+              "nome": "Bolovo de Frango Fit",
+              "descrição": "Essa receita pode ser uma opção de pré-treino por ser fonte de proteínas e carboidratos, também pode ser um lanche da tarde durante o trabalho ou na faculdade.",
+              "ingredientes":
+              [
+                  {
+                      "unidade":"unidade",
+                      "numero": 4,
+                      "nome": "ovos de codorna cozidos",
+
+                      "unidade": "g",
+                      "numero": 170,
+                      "nome": "peito de frango",
+
+                      "unidade": "a gosto",
+                      "numero": null,
+                      "nome": "farinha de rosca, pode substituir por farinha de linhaça ou aveia"
+                  },
+
+				  "preparo": [
+					  "- Tempere os filés de frango com os temperos de sua preferência (alho, sal, mostarda, pimenta preta, páprica picante e pimenta calabresa...)",
+					  "- Passe o frango temperado no processador de alimentos. Após, pegue um pouco do frango (com as mãos levemente umedecidas fica mais fácil), abra em formato de disco na palma da mão, coloque o ovo de codorna dentro e feche com cuidado. Leve ao congelador por 10 minutos.",
+					  "- Enquanto o bolovo endurece no congelador, prepare a farinha para empanar. A farinha de rosca pode ser temperada com páprica picante. Aqueça o forno a 210 graus.",
+					  "- Passe cada bolovo na farinha, mas não coloque demais, pois senão não fica crocante. Coloque em uma assadeira de silicone ou de alumínio untada com azeite. Coloque bebem pouquinho de azeite em cima de cada bolovo para pegar cor, mas não muito para não empapar e perder a crocância. Leve para assar no forno pré-aquecido por mais ou menos 30 minutos ou até dourar. E está pronto seu bolovo de frango fitness."
+ 
+				  ],
+			"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/2017-02-11-03.03.29-2.jpg"
+              ]  
+          },
+
+		  {
+			  "nome": "Abobrinha Recheada Low Carb"
+			  "descrição": Essa receita de abobrinha assada low carb com queijo é ideal para quem quer reduzir a ingestão de carboidratos ou segue uma dieta paleo. Funciona muito bem como acompanhamento para sua proteína, adicionado, ainda uma salada de folhas você terá um prato completo. Rende 4 porções.",
+			  "ingredientes": 
+			  [
+				  {
+					  "unidade": "unidade",
+					  "numero": 4,
+					  "nome": "abobrinhas cortadas ao meio",
+				  },
+
+					{
+					  "unidade": "xícara",
+					  "numero": 0.5,
+					  "nome": "queijo parmesão ralado",
+					},
+
+					  {
+					  "unidade": "a gosto"
+					  "numero": null
+					  "nome": "azeite"
+
+					  },
+					  
+
+					  {
+					  "unidade": "a gosto",
+					  "numero": null,
+					  "nome": "sal e pimenta"
+					  }
+
+			  ],
+			  
+			  	"preparo": [
+					  "- Pré-aqueça o forno e tire o miolo das abobrinhas;",
+					  "- Passe azeite nelas, coloque o papel alumínio e leve para o forno e deixe por cerca de 10 minutos;",
+					  "- Misture o queijo com o resto dos ingredientes, retire as abobrinhas e coloque o recheio, volte ao forno por mais 10 minutos;",
+					  "- Em seguida tire o papel alumínio e deixe dourar por mais 5 minutos."
+				  ],
+
+			"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/AboParme5.jpg"
+
+		  },
+
+		  {
+			  
+		  }
+          
