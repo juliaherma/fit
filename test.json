@@ -79,40 +79,5 @@
 
 			"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/AboParme5.jpg"
 
-          },
-
-          {
-              "nome": "Rolinhos de salmão com pepino",
-			  "descrição": "Você pode fazer outros recheios, com o que tiver na sua casa e que não precise assar. Outra ideia é fazer com abobrinhas e assar no forno, vai ficar ótimo também. Pode ser um lanche, uma entrada ou um acompanhamento para seu jantar Low Carb!",
-			  "ingredientes":
-			  [
-
-				  {
-					  "unidade": "unidade",
-					  "numero": 1,
-					  "nome": "cream cheese light ou creme de ricota light"
-				  },
-
-				  {
-					  "unidade": "unidade",
-					  "numero": 1,
-					  "nome": "pepino largo"
-				  },
-
-				  {
-					  "unidade": "a gosto",
-					  "numero": null,
-					  "nome": "dill fresco picado"
-				  },
-
-				  {
-					  "unidade": "a gosto",
-					  "numero": null,
-					  "nome": "salmão defumado (ou alguma sobra de salmão assado que tenha na geladeira)"
-				  },
-			  ]
           }
-        
-        
         ]
-          
