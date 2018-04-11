@@ -109,8 +109,17 @@
 					  "unidade": "a gosto",
 					  "numero": null,
 					  "nome": "salmão defumado (ou alguma sobra de salmão assado que tenha na geladeira)"
-				  },
-			  ]
+				  }
+				  
+				  ],
+
+				"preparo": [
+					"- Misture o dill picado com o salmão defumado (se for comprado em tiras, corte em pedaços pequenos) e o cream cheese;",
+					"- Corte o pepino na horizontal com a ajuda de um DESCASCADOR DE ALIMENTOS, isso vai tornar tudo mais fácil e as fatias vão ficar bem finas e fáceis de enrolar;",
+					"- Passe o recheio em toda a extensão de cada fatia e enrole."
+				],
+
+				"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/Untitled-design.png"
           }
         
         
