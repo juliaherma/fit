@@ -357,6 +357,239 @@
 
 	"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/20160523_152603-800x450.jpg"
 		},
+
+		[{
+
+    "nome": "Cookies de amendoim",
+    "descrição": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
+    "ingredientes": [
+
+        {
+            "unidade": "xícara",
+            "numero": 0.5,
+            "nome": "farinha de amendoim"
+        },
+
+        {
+            "unidade": "colher de sopa",
+            "numero": 1,
+            "nome": "pasta de amendoim"
+        },
+
+        {
+            "unidade": "a gosto",
+            "numero": null,
+            "nome": "canela"
+        },
+
+        {
+            "unidade": "colheres de sopa",
+            "numero": 2,
+            "nome": "água"
+        }
+    ],
+
+"preparo":[
+
+    "- Misture todos os ingredientes e molde em círculos.",
+    "- Asse durante 25 minutos no forno a 220°."
+],
+
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg"
+},
+
+    {
+        "nome": "Docinhos de banana",
+        "descrição": "Esses brigadeiros fit são ótima opção de pré-treino ou intra treino, pois são fonte de energia. Substituem muito bem aquelas barrinhas de cereais industrializadas, com a vantagem de serem saudáveis e sem químicos ou aditivos. Rende 12 unidades grandes.",
+        "ingredientes": [
+
+            {
+                "unidade": "xícara cheia",
+                "numero": 1,
+                "nome": "amendoim sem casca moído"
+            },
+
+            {
+                "unidade": "colher de sopa rasa",
+                "numero": 1,
+                "nome": "pasta de amendoim"
+            },
+
+            {
+                "unidade": "unidade",
+                "numero": 1,
+                "nome": "banana média madura"
+            },
+
+            {
+                "unidade": "pitada",
+                "numero": 1,
+                "nome": "sal e canela"
+            },
+
+            {
+                "unidade": "a gosto",
+                "numero": null,
+                "nome": "baunilha e cacau"
+            }
+        ],
+    "preparo": [
+        "- Amasse a banana com as especiarias escolhidas;",
+        "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
+        "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
+        "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
+        "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
+    ],
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/docinho-raw-leitora-800x600.jpeg"
+    },
+
+    {
+      "nome": "Bolinho de micro",
+      "descrição": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
+      "ingredientes": [
+
+          {
+              "unidade": "unidade",
+              "numero": 2,
+              "nome": "ovos"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 2,
+              "nome": "bananas médias"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 0.5,
+              "nome": "farelo de aveia"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 3,
+              "nome": "ameixas secas"
+          },
+
+          {
+              "unidade": "colher de café",
+              "numero": 1,
+              "nome": "mel"
+          },
+
+          {
+              "unidade": "colher de café",
+              "numero": 1,
+              "nome": "cacau em pó sem açúcar"
+          },
+
+          {
+              "unidade": "a gosto",
+              "numero": null,
+              "nome": "canela"
+          }
+      ],
+
+    "preparo": [
+
+        "- Coloque todos os ingredientes em um recipiente e misture com um mixer, ou bata tudo no liquificador;",
+        "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
+    ],
+
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg"
+    },
+
+    {
+        "nome": "Bolo Paleo de Carne e Bacon",
+        "descrição": "Você pode trocar o recheio por ingredientes que possui em casa, conforme preferir.",
+        "ingredientes": [
+
+            {
+                "unidade": "g",
+                "numero": 500,
+                "nome": "patinho moído"
+            },
+
+            {
+                "unidade": "unidade",
+                "numero": 6,
+                "nome": "fatias de bacon"
+            },
+
+            {
+                "unidade": "g",
+                "numero": 50,
+                "nome": "parmesão ralado"
+            },
+
+            {
+                "unidade": "unidade",
+                "numero": 0.5,
+                "nome": "cebola picada"
+            },
+
+            {
+                "unidade": "colher de sobremesa",
+                "numero": 1,
+                "nome": "sal"
+            },
+
+            {
+                "unidade": "a gosto"
+                "numero": null,
+                "nome": "pimenta"
+            },
+
+            {
+                "unidade": "colher de sobremesa",
+                "numero": 1,
+                "nome": "salsinha desidratada"
+            },
+
+
+            {
+                "unidade": "colher de sopa",
+                "numero": 1,
+                "nome": "mostarda dijon"
+            },
+
+            {
+                "unidade": "a gosto",
+                "numero": null,
+                "nome": "azeite"
+            },
+
+            {
+                "unidade": "a gosto",
+                "numero": null,
+                "nome": "batatas inglesas pequenas inteiras ou cortadas rusticamente"
+            },
+
+            {
+                "unidade": "unidade",
+                "numero": 2,
+                "nome": "maçãs pequenas"
+            },
+
+            {
+                "unidade": "a gosto",
+                "numero": null,
+                "nome": "dentes de alho"
+            }
+        ],
+
+    "preparo": [
+        "- Em um bowl, coloque a carne moída e adicione a cebola picada, os dentes de alho espremidos, sal, pimenta, salsa desidratada, azeite, mostarda dijon. Deixe marinando por uns 15 minutos;",
+        "- Em uma superfície lisa, abra o plástico filme, coloque a carne moída por cima, formando um retângulo.",
+        "- Coloque o queijo, espalhando em cima da carne e as fatias de bacon por cima. Enrole cuidadosamente.",
+        "- Coloque em uma travessa untada com azeite e espalhe as batatas, as maçãs fatiadas e os dentes de alho inteiros. Regue com mais azeite.",
+        "- Cubra com papel alumínio e leve ao forno por mais ou menos 45 minutos. Tire o papel e deixe mais 5 minutos."
+    ],
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/10/bolo-de-crane-800x533.jpg"
+    },
+
+]
 		
         ]
           
