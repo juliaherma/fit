@@ -120,8 +120,243 @@
 				],
 
 				"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/Untitled-design.png"
-          }
+          },
         
-        
+        {
+			"nome": "Pão de Queijo de Tapioca",
+			"descrição": "Um dos benefícios do pão de queijo de tapioca é que, como é caseiro, os ingredientes são selecionados por você. Além disso, você pode saborear com temperos que goste e criar versões pessoais e únicas. A receita rende 12 unidades.",
+			"ingredientes": [
+
+				{
+					"unidade": "xícara",
+					"numero": 3,
+					"nome": "farinha de tapioca"
+				},
+
+				{
+					"unidade": "xícara",
+					"numero": 1,
+					"nome": "leite"
+				},
+
+				{
+					"unidade": "xícara",
+					"numero": 1,
+					"nome": "óleo de abacate ou azeite"
+				},
+
+				{
+					"unidade": "xícara",
+					"numero": 1,
+					"nome": "queijo parmesão ralado"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 3,
+					"nome": "ovos"
+				},
+
+				{
+					"unidade": "colher de chá",
+					"numero": 1,
+					"nome": "sal"
+				}
+			],
+
+		"preparo": [
+			"- Pré-aqueça o forno 200C;",
+			"- Bata tudo no liquidificador e coloque em uma forma de cupcake antiaderente , por exemplo, para 12 bolinhos – Não encha até a borda porque crescem os pãezinhos crescem, deixe até pouco acima da metade para não transbordar;",
+			"- Asse até estarem dourados. Leva mais ou menos 15, 20 minutos, depende do seu forno."
+		],
+
+			"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/20170210_182559-800x600.jpg"
+
+		},
+
+		{
+			"nome": "Nhoque de abóbora",
+			"descrição": "Você pode substituir a farinha de trigo comum por farinha de trigo integral ou ainda uma fécula ou mix de farinhas de glúten. É importante não usar a abóbora morna para fazer a massa, espere ela esfriar totalmente. A receita rende 1 porção.",
+			"ingredientes": [
+
+				{
+					"unidade": "xícara de chá",
+					"numero": 2,
+					"nome": "abóbora cabotiá assada e amassada"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 1,
+					"nome": "ovo"
+				},
+
+				{
+					"unidade": "xícara de chá",
+					"numero": 1.5,
+					"nome": "farinha de trigo"
+				},
+
+				{
+					"unidade": "colher de chá",
+					"numero": 1,
+					"nome": "sal"
+				}
+			],
+
+		"preparo": [
+			"- Depois de assar a abóbora no forno, amasse ela com um garfo;",
+			"- A massa não fica totalmente dura/seca. Ela fica uma massa mais mole então não mexa muito com ela, pois vai grudar na mão. Se ficar muito mole acrescente um pouco mais de farinha de trigo, isso vai depender do tamanho do ovo e da quantidade de água da abóbora;",
+			"- Pegue pequenas porções da massa, coloque em uma superfície polvilhada com farinha de trigo e faça rolinhos. Corte os rolinhos com mais ou menos 1.5cm e vá colocando os pedacinhos em uma forma polvilhada com farinha de trigo;",
+			"- Coloque uma panela com água para ferver. Assim que a água ferver, coloque sal e vá colocando os nhoques na água fervente;",
+			"- Assim que as bolinhas começarem a subir para a superfície da água, vá retirando.",
+			"- Adicione o molho da sua preferência."
+		],
+	"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/20160521_153741-800x450.jpg"
+		},
+
+		{
+			"nome": "Quinoa com Frango Thai",
+			"descrição": "A quinoa ajuda a manter a elasticidade dos vasos sanguíneos, fortalecer o tecido conjuntivo, protejer contra radicais livres e é de fácil digestão. Além disso, os grãos de quinoa contém aminoácidos essenciais, como lisina e boas quantidades de ferro, cálcio e fósforo.",
+			"ingredientes": [
+
+				{
+					"unidade": "xícara",
+					"numero": 1,
+					"nome": "quinoa mista cozida apenas em água"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 1.5,
+					"nome": "tomate cortado em cubinhos, sem semente"
+				},
+
+				{
+					"unidade": "punhado",
+					"numero": 1,
+					"nome": "pimentão vermelho picado em cubinhos"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 0.5,
+					"nome": "cebola média cortada em cubinhos"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 2,
+					"nome": "dentes de alho"
+				},
+
+				{
+					"unidade": "a gosto",
+					"numero": null,
+					"nome": "pimenta malagueta"
+				},
+
+				{
+					"unidade": "colher de chá rasa",
+					" numero": 1,
+					"nome": "óleo de gergelim"
+				},
+
+				{
+					"unidade": "xícara",
+					"numero": 0.5,
+					"nome": "molho shoyu light"
+				},
+
+				{
+					"unidade": "a gosto",
+					"numero": null,
+					"nome": "curry e sal"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 2,
+					"nome": "filé de frango cortados em cubos"
+				}
+			],
+
+		"preparo": [
+
+			"- Dourar a cebola e o alho;",
+			"- Acrescentar o pimentão. Adicionar o frango, o shoyo, o óleo de gergelim, pimenta, curry e uma pitadinha de sal. Refogar até o frango pegar cor;",
+			"- Adicionar o tomate e depois a quinoa. Mexer por mais uns 3 ou 4 minutos.",
+			"- Para servir, salpique cebolinha e gergelim preto."
+		],
+
+	"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/QUINOA-E-FRANGO2-800x533.jpg"
+		},
+
+		{
+			"nome": "Esfirra integral",
+			"descrição": "É uma excelente ideia para alguma festinha ou reunião de amigos.",
+			"ingredientes": [
+
+				{
+					"unidade": "g",
+					"numero": 500,
+					"nome": "farinha de trigo"
+				},
+
+				{
+					"unidade": "g",
+					"numero": 500,
+					"nome": "farinha de trigo integral"
+				},
+
+				{
+					"unidade": "xícara",
+					"numero": 1,
+					"nome": "óleo vegetal ou de girassol (preferencialmente óleo de coco ou girassol)"
+				},
+
+				{
+					"unidade": "colher de sopa",
+					"numero": 1,
+					"nome": "açúcar demerara"
+				},
+
+				{
+					"unidade": "colher de sopa rasa",
+					"numero": 1,
+					"nome": "sal"
+				},
+
+				{
+					"unidade": "ml",
+					"numero": 500,
+					"nome": "água morna"
+				},
+
+				{
+					"unidade": "colher de sopa",
+					"numero": 1,
+					"nome": "fermento biológico"
+				},
+
+				{
+					"unidade": "unidade",
+					"numero": 1,
+					"nome": "gema de ovo para pincelar"
+				}
+			],
+
+		"preparo": [
+			
+			"- Misture todos os ingredientes e deixe a massa descansar por 30min.",
+			"- Faça bolinhas para abrir a massa com o rolo ou abra uma massa grande e corte com o cortador redondo que preferir.",
+			"- Recheie a masssa com o recheio de sua preferencia e feche as três partes, criando um formato de triângulo.",
+			"- Pincele a gema de ovo.",
+			"- Pré-asse as esfihas no forno à 180 graus. Depois de frias podem ser congeladas em saquinhos, e duram por até 2 meses no freezer."
+		],
+
+	"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/20160523_152603-800x450.jpg"
+		},
+		
         ]
           
